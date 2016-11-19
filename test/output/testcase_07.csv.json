@@ -1,0 +1,85 @@
+{
+  "itineraries": [
+    {
+      "bag_price": 23.0,
+      "bags_allowed": 1,
+      "destination": "BRN",
+      "flights_taken": [
+        "PV755",
+        "PV731"
+      ],
+      "price": 48.0,
+      "source": "HKT",
+      "stops": [
+        {
+          "airport": "ASM",
+          "wait_time": "3:40:00"
+        }
+      ],
+      "total_flight_duration": "4:45:00",
+      "total_wait_time": "3:40:00"
+    },
+    {
+      "bag_price": 18.0,
+      "bags_allowed": 1,
+      "destination": "ASM",
+      "flights_taken": [
+        "PV404",
+        "PV755"
+      ],
+      "price": 47.0,
+      "source": "USM",
+      "stops": [
+        {
+          "airport": "HKT",
+          "wait_time": "1:05:00"
+        }
+      ],
+      "total_flight_duration": "4:45:00",
+      "total_wait_time": "1:05:00"
+    },
+    {
+      "bag_price": 23.0,
+      "bags_allowed": 1,
+      "destination": "ASM",
+      "flights_taken": [
+        "PV404",
+        "PV729"
+      ],
+      "price": 49.0,
+      "source": "USM",
+      "stops": [
+        {
+          "airport": "HKT",
+          "wait_time": "1:05:00"
+        }
+      ],
+      "total_flight_duration": "8:25:00",
+      "total_wait_time": "1:05:00"
+    },
+    {
+      "bag_price": 32.0,
+      "bags_allowed": 1,
+      "destination": "BRN",
+      "flights_taken": [
+        "PV404",
+        "PV755",
+        "PV731"
+      ],
+      "price": 72.0,
+      "source": "USM",
+      "stops": [
+        {
+          "airport": "HKT",
+          "wait_time": "1:05:00"
+        },
+        {
+          "airport": "ASM",
+          "wait_time": "3:40:00"
+        }
+      ],
+      "total_flight_duration": "5:45:00",
+      "total_wait_time": "4:45:00"
+    }
+  ]
+}

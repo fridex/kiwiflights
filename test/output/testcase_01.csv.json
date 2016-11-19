@@ -1,0 +1,247 @@
+{
+  "itineraries": [
+    {
+      "bag_price": 77.0,
+      "bags_allowed": 1,
+      "destination": "HKT",
+      "flights_taken": [
+        "PV873",
+        "PV260"
+      ],
+      "price": 135.0,
+      "source": "BWN",
+      "stops": [
+        {
+          "airport": "DPS",
+          "wait_time": "3:55:00"
+        }
+      ],
+      "total_flight_duration": "6:00:00",
+      "total_wait_time": "3:55:00"
+    },
+    {
+      "bag_price": 83.0,
+      "bags_allowed": 1,
+      "destination": "USM",
+      "flights_taken": [
+        "PV873",
+        "PV260",
+        "PV243"
+      ],
+      "price": 157.0,
+      "source": "BWN",
+      "stops": [
+        {
+          "airport": "DPS",
+          "wait_time": "3:55:00"
+        },
+        {
+          "airport": "HKT",
+          "wait_time": "3:15:00"
+        }
+      ],
+      "total_flight_duration": "6:55:00",
+      "total_wait_time": "7:10:00"
+    },
+    {
+      "bag_price": 63.0,
+      "bags_allowed": 1,
+      "destination": "HKT",
+      "flights_taken": [
+        "PV046",
+        "PV974"
+      ],
+      "price": 135.0,
+      "source": "BWN",
+      "stops": [
+        {
+          "airport": "DPS",
+          "wait_time": "2:25:00"
+        }
+      ],
+      "total_flight_duration": "6:00:00",
+      "total_wait_time": "2:25:00"
+    },
+    {
+      "bag_price": 68.0,
+      "bags_allowed": 1,
+      "destination": "USM",
+      "flights_taken": [
+        "PV046",
+        "PV974",
+        "PV672"
+      ],
+      "price": 159.0,
+      "source": "BWN",
+      "stops": [
+        {
+          "airport": "DPS",
+          "wait_time": "2:25:00"
+        },
+        {
+          "airport": "HKT",
+          "wait_time": "3:05:00"
+        }
+      ],
+      "total_flight_duration": "6:55:00",
+      "total_wait_time": "5:30:00"
+    },
+    {
+      "bag_price": 78.0,
+      "bags_allowed": 1,
+      "destination": "HKT",
+      "flights_taken": [
+        "PV378",
+        "PV414"
+      ],
+      "price": 126.0,
+      "source": "BWN",
+      "stops": [
+        {
+          "airport": "DPS",
+          "wait_time": "1:20:00"
+        }
+      ],
+      "total_flight_duration": "6:00:00",
+      "total_wait_time": "1:20:00"
+    },
+    {
+      "bag_price": 84.0,
+      "bags_allowed": 1,
+      "destination": "USM",
+      "flights_taken": [
+        "PV378",
+        "PV414",
+        "PV243"
+      ],
+      "price": 148.0,
+      "source": "BWN",
+      "stops": [
+        {
+          "airport": "DPS",
+          "wait_time": "1:20:00"
+        },
+        {
+          "airport": "HKT",
+          "wait_time": "2:50:00"
+        }
+      ],
+      "total_flight_duration": "6:55:00",
+      "total_wait_time": "4:10:00"
+    },
+    {
+      "bag_price": 49.0,
+      "bags_allowed": 1,
+      "destination": "USM",
+      "flights_taken": [
+        "PV260",
+        "PV243"
+      ],
+      "price": 111.0,
+      "source": "DPS",
+      "stops": [
+        {
+          "airport": "HKT",
+          "wait_time": "3:15:00"
+        }
+      ],
+      "total_flight_duration": "4:35:00",
+      "total_wait_time": "3:15:00"
+    },
+    {
+      "bag_price": 55.0,
+      "bags_allowed": 1,
+      "destination": "USM",
+      "flights_taken": [
+        "PV519",
+        "PV442"
+      ],
+      "price": 96.0,
+      "source": "DPS",
+      "stops": [
+        {
+          "airport": "HKT",
+          "wait_time": "2:30:00"
+        }
+      ],
+      "total_flight_duration": "4:35:00",
+      "total_wait_time": "2:30:00"
+    },
+    {
+      "bag_price": 43.0,
+      "bags_allowed": 1,
+      "destination": "USM",
+      "flights_taken": [
+        "PV974",
+        "PV672"
+      ],
+      "price": 109.0,
+      "source": "DPS",
+      "stops": [
+        {
+          "airport": "HKT",
+          "wait_time": "3:05:00"
+        }
+      ],
+      "total_flight_duration": "4:35:00",
+      "total_wait_time": "3:05:00"
+    },
+    {
+      "bag_price": 53.0,
+      "bags_allowed": 1,
+      "destination": "USM",
+      "flights_taken": [
+        "PV699",
+        "PV634"
+      ],
+      "price": 99.0,
+      "source": "DPS",
+      "stops": [
+        {
+          "airport": "HKT",
+          "wait_time": "3:55:00"
+        }
+      ],
+      "total_flight_duration": "4:35:00",
+      "total_wait_time": "3:55:00"
+    },
+    {
+      "bag_price": 55.0,
+      "bags_allowed": 1,
+      "destination": "USM",
+      "flights_taken": [
+        "PV414",
+        "PV243"
+      ],
+      "price": 89.0,
+      "source": "DPS",
+      "stops": [
+        {
+          "airport": "HKT",
+          "wait_time": "2:50:00"
+        }
+      ],
+      "total_flight_duration": "4:35:00",
+      "total_wait_time": "2:50:00"
+    },
+    {
+      "bag_price": 50.0,
+      "bags_allowed": 1,
+      "destination": "USM",
+      "flights_taken": [
+        "PV207",
+        "PV634"
+      ],
+      "price": 104.0,
+      "source": "DPS",
+      "stops": [
+        {
+          "airport": "HKT",
+          "wait_time": "3:55:00"
+        }
+      ],
+      "total_flight_duration": "4:35:00",
+      "total_wait_time": "3:55:00"
+    }
+  ]
+}

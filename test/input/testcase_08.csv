@@ -1,0 +1,3 @@
+source,destination,departure,arrival,flight_number,price,bags_allowed,bag_price
+USM,HKT,2017-02-11T06:25:00,2017-02-11T07:35:00,PV404,24,1,9
+HKT,USM,2017-02-11T08:45:00,2017-02-11T10:55:00,PV755,23,2,9
